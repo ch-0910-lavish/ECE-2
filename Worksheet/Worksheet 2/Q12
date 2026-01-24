@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Document</title>
+
+    <style>
+        body {
+            margin: 0;
+            height: 100vh;
+            display: flex;
+            justify-content: center; 
+            align-items: center;     
+            text-align: center;      
+            font-family: Arial, sans-serif;
+        }
+    </style>
+</head>
+<body>
+
+    <div>
+        <h1>country</h1>
+        <select name="country">
+            <option value="india">India</option>
+            <option value="usa">USA</option>
+            <option value="uk">UK</option>
+        </select>
+    </div>
+
+</body>
+</html>
