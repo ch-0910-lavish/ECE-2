@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   
+    <title>Students Details </title>
+</head>
+<body>
+     <caption>Student Details</caption>
+  <table border="1">
+  <tr>
+    <th>ID</th>
+    <th>Name</th>
+    <th>Branch</th>
+    <th>Course</th>
+    <th>Section</th>
+    <th>Year</th>
+
+  </tr>
+  <tr>
+    <td>2025b03110174</td>
+    <td>Lavish Bana</td>
+    <td>B.Tech</td>
+    <td>ECE</td>
+    <td>2</td>
+    <td>1st Year</td>
+  </tr>
+  <tr>
+    <td>2025b03110192</td>
+    <td>Raj Singh</td>
+    <td>B.Tech</td>
+    <td>ECE</td>
+    <td>2</td>
+    <td>1st Year</td>
+  </tr>
+  <tr>
+    <td>2025b03110068</td>
+    <td>Priyank Deval</td>
+    <td>B.Tech</td>
+    <td>ECE</td>
+    <td>2</td>
+    <td>1st Year</td>
+    <tr>
+    <td>2025b03110045</td>
+    <td>Rimjhim Sharma</td>
+    <td>B.Tech</td>
+    <td>ECE</td>
+    <td>2</td>
+    <td>1st Year</td>
+  </tr>
+  <tr>
+    <td>2025b03110171</td>
+    <td>Manish Kumar Yadav </td>
+    <td>B.Tech</td>
+    <td>ECE</td>
+    <td>2</td>
+    <td>1st Year</td>
+  </tr>
+  </tr>
+</table>
+</body>
+</html>
